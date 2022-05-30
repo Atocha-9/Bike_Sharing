@@ -14,3 +14,7 @@ Rua Dr. Roberto Frias, 378
 Original Source: http://capitalbikeshare.com/system-data
 Weather Information: http://www.freemeteo.com
 Holiday Schedule: http://dchr.dc.gov/page/holiday-schedule
+
+Sorce used to develop the decision tree model by hand: 
+https://www.youtube.com/watch?v=UhY5vPfQIrA
+https://www.youtube.com/watch?v=P77bDN7qAlc
